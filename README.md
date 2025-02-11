@@ -62,3 +62,6 @@ Edit
 
 
 ![AJAX Example](https://github.com/alaabasu/Ajax/blob/main/Ajax.png?raw=true)
+
+![AJAX Example](https://github.com/alaabasu/Ajax/blob/main/Ajax.png?raw=true)
+
