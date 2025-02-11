@@ -57,3 +57,8 @@ Edit
 │── styles.css        # CSS file for styling
 │── script.js         # JavaScript file with AJAX requests
 │── README.md         # Documentation
+
+
+
+
+![AJAX Example](https://github.com/alaabasu/Ajax/blob/main/Ajax.png?raw=true)
