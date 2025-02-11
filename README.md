@@ -60,7 +60,8 @@ Edit
 
 
 
-![Ajax Photo](https://github.com/alaabasu/Ajax/blob/master/Ajax.png?raw=true)
+![Ajax Photo](https://raw.githubusercontent.com/alaabasu/Ajax/master/Ajax.png)
+
 
 
 
