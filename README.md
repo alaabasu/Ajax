@@ -42,3 +42,18 @@ textbutton.addEventListener('click', function() {
 let displayData = (data) => {
     document.querySelector('#card-text').innerHTML = `<h3>${data}</h3>`;
 };
+
+
+
+📂 Project Structure
+graphql
+Copy
+Edit
+/AjaxProject
+│── /data
+│   ├── messages.txt  # Sample text file
+│   ├── use.json      # Sample JSON data
+│── index.html        # Main HTML file
+│── styles.css        # CSS file for styling
+│── script.js         # JavaScript file with AJAX requests
+│── README.md         # Documentation
